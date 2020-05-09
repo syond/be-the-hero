@@ -1,7 +1,5 @@
 ![alt text](https://github.com/syond/be-the-hero/blob/master/frontend/src/assets/logo.svg?raw=true)
 
-# Be The Hero!
-
 ## :coffee: About
 App made for Web and Mobile. On web version you can register Ong and Incidents to them. 
 The incidents will be visible for anyone who use the mobile version. 
