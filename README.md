@@ -1,3 +1,5 @@
+![alt text](https://github.com/syond/be-the-hero/blob/master/frontend/src/assets/logo.svg?raw=true)
+
 # Be The Hero!
 
 ## :coffee: About
