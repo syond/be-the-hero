@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/syond/be-the-hero/master/frontend/src/assets/logo.svgf">
+  <img src="https://raw.githubusercontent.com/syond/be-the-hero/master/frontend/src/assets/logo.svg">
 </p>
 
 <h1 align="center">Be The Hero!</h1>
