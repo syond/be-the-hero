@@ -2,11 +2,18 @@
   <img src="https://raw.githubusercontent.com/syond/be-the-hero/master/frontend/src/assets/logo.svg" height="300" width="300">
 </p>
 
-<h1 align="center">Be The Hero!</h1>
-
 <p align="center">
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=7159c1&labelColor=000000">
+  
   Search and contact to contribute to an ong incident.
 </p>
+
+<p align="center">
+  <a href="https://gifyu.com/image/us8P">
+    <img src="https://s7.gifyu.com/images/be-the-hero-web.gif" width="548" height="403" alt="be-the-hero-web.gif" border="0" />
+  </a>
+</p>
+
 
 ## :coffee: About
 App made for Web and Mobile. On web version you can register Ong and Incidents to them. 
