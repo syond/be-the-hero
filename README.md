@@ -2,9 +2,7 @@
   <img src="https://raw.githubusercontent.com/syond/be-the-hero/master/frontend/src/assets/logo.svg" height="300" width="300">
 </p>
 
-<p align="center">
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=7159c1&labelColor=000000">
-  
+<p align="center">  
   Search and contact to contribute to an ong incident.
 </p>
 
